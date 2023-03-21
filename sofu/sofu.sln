@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "sofu", "sofu\sofu.dtproj", "{F09F4C39-0B90-43B9-AFC8-F61DFEBB56DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F09F4C39-0B90-43B9-AFC8-F61DFEBB56DC}.Development|Default.ActiveCfg = Development
+		{F09F4C39-0B90-43B9-AFC8-F61DFEBB56DC}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {488B567D-11A9-4C7D-B8D5-F81E1FBA3F18}
+	EndGlobalSection
+EndGlobal
